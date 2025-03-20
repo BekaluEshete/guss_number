@@ -27,5 +27,5 @@ A fun **command-line Python game** where you try to guess a **random number betw
 ## 📋 **Installation & Setup**
 1️⃣ **Clone the repository**  
 ```sh
-git clone https://github.com/your-username/number-guessing-game.git
+git clone https://github.com/BekaluEshete/number-guessing-game.git
 cd number-guessing-game
